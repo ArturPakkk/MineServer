@@ -1,0 +1,9 @@
+[21:39:54] [INIT] KubeJS 2001.6.5-build.7; MC 2001 fabric
+[21:39:54] [INIT] Loaded plugins:
+[21:39:54] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[21:39:54] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[21:39:54] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[21:39:54] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[21:39:54] [INFO] Loaded 1/1 KubeJS server scripts in 0.01 s with 0 errors and 0 warnings
+[21:39:54] [INFO] Scripts loaded
+[21:40:04] [INFO] Server resource reload complete!
